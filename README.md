@@ -1,36 +1,65 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# [![Next JS](https://skillicons.dev/icons?i=nextjs)](https://skillicons.dev) Next.js Starter Template
 
-## Getting Started
+A minimal and optimized starter template for Next.js applications. This setup provides fast builds, server-side rendering (SSR), static site generation (SSG), and an effortless developer experience. 🎨⚡
 
-First, run the development server:
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)
+![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=white)
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+## 📌 Features
+
+- ⚡ **Next.js** - Fast and SEO-friendly React framework.
+- 🔥 **ESLint & Prettier** - Ensures clean and consistent code.
+- 🛠️ **Absolute Imports** - Easy path resolutions.
+- 📄 **Pre-configured Scripts** - Ready-to-use development and build commands.
+
+---
+
+## 📦 Installation
+
+### Clone the Repository
+```sh
+git clone https://github.com/your-username/nextjs-template.git
+cd nextjs-template
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+### Install Dependencies
+```sh
+yarn install
+# or
+npm install
+```
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+### Run Development Server
+```sh
+yarn dev
+# or
+npm run dev
+```
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+### Build for Production
+```sh
+yarn build
+# or
+npm run build
+```
 
-## Learn More
 
-To learn more about Next.js, take a look at the following resources:
+## 🛠️ Available Scripts
+- `dev` - Starts the development server.
+- `build` - Builds the project for production.
+- `start` - Starts the production server.
+- `lint` - Runs ESLint checks.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+---
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## 📜 License
+This project is licensed under the MIT License. Feel free to use and modify it for your projects!
 
-## Deploy on Vercel
+---
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## ⭐ Show Some Love
+If you find this template useful, consider giving it a ⭐ on GitHub!
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Happy coding! 🚀🎨
+
