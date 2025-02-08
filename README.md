@@ -20,7 +20,7 @@ A minimal and optimized starter template for Next.js applications. This setup pr
 
 ### Clone the Repository
 ```sh
-git clone [https://github.com/your-username/nextjs-template.git](https://github.com/VarunGotmare/nextjs-starter-template)
+git clone https://github.com/VarunGotmare/nextjs-starter-template
 cd nextjs-template
 ```
 
